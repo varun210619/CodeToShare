@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Accomodation selected verified]]>
+    </line>
+    <line>
+      <![CDATA[City name entered:Munich]]>
+    </line>
+    <line>
+      <![CDATA[Checkin Date:2019-07-26]]>
+    </line>
+    <line>
+      <![CDATA[Check out Date:2019-08-08]]>
+    </line>
+    <line>
+      <![CDATA[Number of Nights:13]]>
+    </line>
+    <line>
+      <![CDATA[Entered number of adults : 1]]>
+    </line>
+    <line>
+      <![CDATA[Entered number of children : 1]]>
+    </line>
+    <line>
+      <![CDATA[Entered number of rooms : 2]]>
+    </line>
+    <line>
+      <![CDATA[Age of child :7]]>
+    </line>
+    <line>
+      <![CDATA[Travel for work:no]]>
+    </line>
+    <line>
+      <![CDATA[Travel For Work Selected(true/false):false]]>
+    </line>
+    <line>
+      <![CDATA[Searching Accommodation]]>
+    </line>
+    <line>
+      <![CDATA[Filter budget min value:630]]>
+    </line>
+    <line>
+      <![CDATA[Filter budget max value:850]]>
+    </line>
+    <line>
+      <![CDATA[Passed.Price:8624 is within range(8190,11050) for accommodation : 1]]>
+    </line>
+    <line>
+      <![CDATA[Passed.Price:9680 is within range(8190,11050) for accommodation : 2]]>
+    </line>
+    <line>
+      <![CDATA[Price is not available for: 3 accomodation]]>
+    </line>
+    <line>
+      <![CDATA[Review Score:8 selected]]>
+    </line>
+    <line>
+      <![CDATA[Passed. Review Rating:8.5 more than entered rating:8.0]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="66136" started-at="2019-07-25T20:49:38Z" finished-at="2019-07-25T20:50:44Z">
+    <groups>
+    </groups>
+    <test name="Scenario1" duration-ms="66136" started-at="2019-07-25T20:49:38Z" finished-at="2019-07-25T20:50:44Z">
+      <class name="TestScript.Scenario1">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:TestScript.Scenario1@282ba1e]" name="LaunchApp" is-config="true" duration-ms="4945" started-at="2019-07-25T22:49:38Z" finished-at="2019-07-25T22:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestScript.Scenario1@282ba1e]" name="test1" duration-ms="3880" started-at="2019-07-25T22:49:43Z" finished-at="2019-07-25T22:49:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Accomodation selected verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestScript.Scenario1@282ba1e]" name="test2" duration-ms="42166" started-at="2019-07-25T22:49:47Z" finished-at="2019-07-25T22:50:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[City name entered:Munich]]>
+            </line>
+            <line>
+              <![CDATA[Checkin Date:2019-07-26]]>
+            </line>
+            <line>
+              <![CDATA[Check out Date:2019-08-08]]>
+            </line>
+            <line>
+              <![CDATA[Number of Nights:13]]>
+            </line>
+            <line>
+              <![CDATA[Entered number of adults : 1]]>
+            </line>
+            <line>
+              <![CDATA[Entered number of children : 1]]>
+            </line>
+            <line>
+              <![CDATA[Entered number of rooms : 2]]>
+            </line>
+            <line>
+              <![CDATA[Age of child :7]]>
+            </line>
+            <line>
+              <![CDATA[Travel for work:no]]>
+            </line>
+            <line>
+              <![CDATA[Travel For Work Selected(true/false):false]]>
+            </line>
+            <line>
+              <![CDATA[Searching Accommodation]]>
+            </line>
+            <line>
+              <![CDATA[Filter budget min value:630]]>
+            </line>
+            <line>
+              <![CDATA[Filter budget max value:850]]>
+            </line>
+            <line>
+              <![CDATA[Passed.Price:8624 is within range(8190,11050) for accommodation : 1]]>
+            </line>
+            <line>
+              <![CDATA[Passed.Price:9680 is within range(8190,11050) for accommodation : 2]]>
+            </line>
+            <line>
+              <![CDATA[Price is not available for: 3 accomodation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:TestScript.Scenario1@282ba1e]" name="test3" duration-ms="13616" started-at="2019-07-25T22:50:29Z" finished-at="2019-07-25T22:50:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Review Score:8 selected]]>
+            </line>
+            <line>
+              <![CDATA[Passed. Review Rating:8.5 more than entered rating:8.0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="EndOfTest()[pri:0, instance:TestScript.Scenario1@282ba1e]" name="EndOfTest" is-config="true" duration-ms="1498" started-at="2019-07-25T22:50:43Z" finished-at="2019-07-25T22:50:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndOfTest -->
+      </class> <!-- TestScript.Scenario1 -->
+    </test> <!-- Scenario1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

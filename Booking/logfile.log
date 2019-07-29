@@ -1,0 +1,19 @@
+2019-07-25 22:49:43,596 INFO  [Log] **************************************************************************************** 
+2019-07-25 22:49:43,598 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sceanrio 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-07-25 22:49:43,598 INFO  [Log] **************************************************************************************** 
+2019-07-25 22:49:47,316 INFO  [Log] Navigating to URL 
+2019-07-25 22:49:47,316 INFO  [Log] Verifying accommodation is selected or not 
+2019-07-25 22:49:47,413 INFO  [Log] Entering city name 
+2019-07-25 22:49:47,776 INFO  [Log] Entering random dates for checkin and check out 
+2019-07-25 22:49:48,146 INFO  [Log] Entering adults 
+2019-07-25 22:49:48,563 INFO  [Log] Entering children 
+2019-07-25 22:49:49,431 INFO  [Log] Entering rooms 
+2019-07-25 22:49:49,661 INFO  [Log] Entering age 
+2019-07-25 22:49:49,786 INFO  [Log] Selecting travel for work checkbox 
+2019-07-25 22:49:49,838 INFO  [Log] Searching accommodation 
+2019-07-25 22:49:54,246 INFO  [Log] Selecting filter budget 
+2019-07-25 22:50:09,099 INFO  [Log] Verifying Price for 3 accommodations 
+2019-07-25 22:50:29,579 INFO  [Log] Selecting review score filter and verifying same for first accommodation 
+2019-07-25 22:50:43,211 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-07-25 22:50:43,211 INFO  [Log] X 
+2019-07-25 22:50:43,211 INFO  [Log] X 
